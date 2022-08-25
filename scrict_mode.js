@@ -1,0 +1,1 @@
+// todas as classes seguem o 'scrict mode'
